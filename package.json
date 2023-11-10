@@ -1,6 +1,6 @@
 {
   "name": "Swagger-Petstore",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "author": "roop-test-3",
   "scripts": {
     "prepare": "tsc --build",
