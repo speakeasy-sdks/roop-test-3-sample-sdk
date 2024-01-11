@@ -1,18 +1,18 @@
 lockVersion: 2.0.0
 id: 894ada32-1525-4cbe-a46b-d574b4224fcf
 management:
-  docChecksum: 21c25ca8a734b4fb704e98d966524ee0
+  docChecksum: aa6977d96a8cc744e4588f1cbcefdde3
   docVersion: 1.0.0
   speakeasyVersion: internal
-  generationVersion: 2.225.2
-  releaseVersion: 0.5.1
-  configChecksum: 08c1ada413c54bb93958c0058483af76
+  generationVersion: 2.230.3
+  releaseVersion: 0.5.2
+  configChecksum: 2d7e7aca20f8d46a43d4c610b6666004
   repoURL: https://github.com/speakeasy-sdks/roop-test-3-sample-sdk.git
   repoSubDirectory: .
   installationURL: https://github.com/speakeasy-sdks/roop-test-3-sample-sdk
 features:
   typescript:
-    core: 3.4.1
+    core: 3.4.5
     globalServerURLs: 2.82.1
 generatedFiles:
   - src/sdk/pets.ts
